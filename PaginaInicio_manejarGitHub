@@ -1,0 +1,34 @@
+***************************************************************************************************
+* Configuración rápida - si usted ha hecho este tipo de cosas antes				  *
+*    ___________________________________________________________________			  *
+* o | HTTPS | SSH  |https://github.com/macdg/Inv0.git			|			  *
+*   |_______|______|____________________________________________________|			  *
+*												  *
+* Recomendamos cada repositorio incluye un README, LICENCIA, y .gitignore.			  *
+***************************************************************************************************
+* ... O crear un nuevo repositorio en la línea de comandos					  *
+*												  *
+* echo "# Inv0" >> README.md 									  *
+* git init 											  *
+* git add README.md 										  *
+* git commit -m "primero comprometerse" 							  *
+* git remote add origen https://github.com/macdg/Inv0.git					  *
+* git push origin master -u 									  *
+*												  *
+***************************************************************************************************
+*												  *
+* ... O empujar un repositorio existente desde la línea de comandos 				  *
+*												  *
+* git remote add origen https://github.com/macdg/Inv0.git					  *
+* git push origin master -u 									  *
+*												  *
+***************************************************************************************************
+*												  *
+* ... O código de importación desde otro repositorio						  *
+*												  *
+* Puede inicializar este repositorio con código de un proyecto Subversion, Mercurial o TFS.	  *
+*    ___________________________								  *
+*   | Código de Importación	|								  *
+*   |___________________________|								  *
+***************************************************************************************************
+
